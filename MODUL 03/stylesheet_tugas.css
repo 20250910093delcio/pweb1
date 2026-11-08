@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+}
+h1 {
+    color: #0d0d0e;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 3px solid black;
+}
+h2 {
+    color: red;
+    text-align: center;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+p{
+   color:#0d0d0e;
+   text-align: center;
+}
+td {
+    padding :11px  20px; 
+    height: 20px;
+    width: 5px;  
+}
+
+td:first-child {
+    font-weight: bold;
+    color:black;
+    width: 40%;
+}
+hr {
+    border: 1px solid black;
+    width: 100%;
+}
+table{
+    border: 1px solid #ddd;
+    padding: 8px;
+    color:#0d0d0e;
+    background-color: white;
+}
+

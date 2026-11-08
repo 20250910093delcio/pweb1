@@ -1,0 +1,15 @@
+.Box1{
+    position:static;
+    background-color: lightblue;
+}
+.Box2{
+    posistion:relative;
+    top: 20px;
+    background-color:lightblue;
+}
+.Box3{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+    background-color:lightcoral;
+}
